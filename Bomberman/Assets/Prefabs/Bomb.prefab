@@ -83,7 +83,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35538406d7b96b04f9325ffeb5b8956d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  explosionPrefab: {fileID: 1269739447801708, guid: 0b1200e7b2edb374d8c63c8a46db5e5d,
+  explosionPrefab: {fileID: 1047850922565188, guid: 7605aa5691a064846bae72e2b1d79079,
     type: 2}
 --- !u!212 &212693584314186386
 SpriteRenderer:
